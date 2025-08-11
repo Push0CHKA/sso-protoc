@@ -1,4 +1,4 @@
-module github.com/Push0CHKA/sso-protoc
+module github.com/push0chka/sso-protoc
 
 go 1.24.5
 
